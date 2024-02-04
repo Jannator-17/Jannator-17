@@ -7,13 +7,13 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,nodejs,python,javascript,typescript,mongodb,flask" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,nodejs,python,javascript,typescript,mongodb,flask" />
 </div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jannator-17/Jannator.17/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jannator-17/Jannator-17/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
